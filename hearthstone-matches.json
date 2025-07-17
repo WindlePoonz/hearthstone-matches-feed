@@ -1,1 +1,22 @@
-{}
+{
+  "upcoming": [
+    {
+      "time": "2025-07-17T15:43:46.045Z",
+      "player1": "PlayerOne",
+      "player2": "PlayerTwo",
+      "player1_country": "SE",
+      "player2_country": "US",
+      "tournament": "Hearthstone Open 2025"
+    }
+  ],
+  "past": [
+    {
+      "time": "2025-07-17T11:43:46.045Z",
+      "player1": "PlayerThree",
+      "player2": "PlayerFour",
+      "player1_country": "FR",
+      "player2_country": "DE",
+      "tournament": "Winter Championship"
+    }
+  ]
+}
