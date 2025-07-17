@@ -1,0 +1,12 @@
+{
+  "name": "hearthstone-matches-feed",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scraper.js"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0",
+    "moment-timezone": "^0.5.40"
+  }
+}
